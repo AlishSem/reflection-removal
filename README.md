@@ -11,7 +11,7 @@
 
 ### Conda environment
 
-A minimal conda environment to test the pretrained model is provided. (credit to @ironbar)
+A minimal conda environment to test the pretrained model is provided.
 
 ```
 conda env create -f env.yml
