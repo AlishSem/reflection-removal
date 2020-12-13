@@ -20,7 +20,7 @@ conda env create -f env.yml
 
 ## Testing
 
-* Download pre-trained model [here](https://drive.google.com/open?id=1I9e2r_e0Ap6ds4MYRwoamUUlz6PzXPPj)
+* Download pre-trained model [here](https://drive.google.com/file/d/1jLdH21efaa8BrfHQE7vydmPmMwpGriXi/view?usp=sharing)
 * `$ tar -xvzf pre-trained.tar.gz`
 * this should extract the models into a newly created folder called `pre-trained`
 * Change `test_path` (line 419) to your test image folder. If you want to test on the provided test images (e.g. in `./test_images/real/`), keep it as it is.
